@@ -1,0 +1,53 @@
+.navbar {
+    background-color: #201E1E;
+    color: white;
+}
+
+.navbar-text {
+    color: white;
+}
+.navbar-brad {
+    color: white;
+}
+.navbar-link {
+    color: white;
+}
+
+.navlink.active {
+    color: white;
+}
+
+.white {
+    color: white;
+}
+
+.barTxt {
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: white;
+}
+
+.homeTitle {
+    text-align: center;
+    font-weight: bold;
+    font-size: 8vh;
+    
+}
+
+.homeImgs {
+    display: flex;
+    justify-content: space-between;
+    
+    /* width: 40vw; */
+    /* transform: scale(0.6); */
+}
+
+.erenImg {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.erenTitanImg {
+    display: flex;
+    justify-content: flex-start;
+    /* transform: scale(1.2); */
+}
