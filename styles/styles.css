@@ -49,5 +49,7 @@
 .erenTitanImg {
     display: flex;
     justify-content: flex-start;
+    
     /* transform: scale(1.2); */
+
 }
